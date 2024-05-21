@@ -2,7 +2,7 @@
 # Ciberseguridad
 #
 
-## Write up de casos de análisis forense informático.
+## Análisis forense informático
 
 ### Memoria usb
 <ul>
@@ -10,8 +10,8 @@
 </ul>
 
 
-  
-## Write up de máquinas para ser explotadas (Pentesting).
+## Análisis pentesting 
+### Pentesting
 
 <ul>
   <li></li>
