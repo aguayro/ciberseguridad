@@ -4,9 +4,9 @@
 <ul> 
     <li>USB</li>
       <a href="https://github.com/aguayro/ciberseguridad/blob/1a27ceec941305688d3ae4f09bef3690a0f94508/Forensic/An%C3%A1lisis%20Forense%20-%20Incidente%20seguridad%20unidad%20usb%20caso%2001.pdf">Atenea: estudio imagen de memoria usb (malware)</a>
-        
     <li>RAM</li>
-       <a href="https://github.com/aguayro/ciberseguridad/blob/f1642def3ba7d9f2451211761edc55d9a783388b/Forensic/An%C3%A1lisis%20Forense%20-%20Memoria%2001.pdf">Memoria windows (infectada)Memoria RAM windows</a> 
+      <a href="https://github.com/aguayro/ciberseguridad/blob/f1642def3ba7d9f2451211761edc55d9a783388b/Forensic/An%C3%A1lisis%20Forense%20-%20Memoria%2001.pdf">Memoria windows (malware)</a>
+        
 </ul>
 
 ## Investigación e-mail
