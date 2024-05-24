@@ -7,5 +7,7 @@
 
 ## Investigación e-mail
 <ul>
-  <li><a href="https://github.com/aguayro/ciberseguridad/blob/a9037a46820871ee41c80398c4411effb8374e90/Forensic/An%C3%A1lisis%20Forense%20-%20An%C3%A1lisis%20E-mail%20caso%20001.pdf">E-mail sospechoso Crucerogratis</li>
+  <li><a href="https://github.com/aguayro/ciberseguridad/blob/a9037a46820871ee41c80398c4411effb8374e90/Forensic/An%C3%A1lisis%20Forense%20-%20An%C3%A1lisis%20E-mail%20caso%20001.pdf">E-mail sospechoso 
+    Crucerogratis (malware)</li>
+  <li><a href="https://github.com/aguayro/ciberseguridad/blob/de95c44c09591e2dcb6cd238fe677305e178f5d3/Forensic/An%C3%A1lisis%20Forense%20-%20An%C3%A1lisis%20E-mail%20caso%20005.pdf">E-mail con adjunto rtf (sin infección)</li>
 </ul>
